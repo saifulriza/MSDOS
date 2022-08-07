@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # MSDOS
-=======
-# winjadul
 
 ## Project setup
 ```
@@ -17,7 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 7fa04a5... MSDOS init
